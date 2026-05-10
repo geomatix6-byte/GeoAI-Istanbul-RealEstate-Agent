@@ -1,12 +1,12 @@
-# Autonomous GeoAI Agent for Istanbul Real Estate Market
+# Autonomous GeoAI Agent for Real Estate Valuation in Istanbul
 
-This project features a Spatial AI Agent developed for the MYZ 305E - Artificial Intelligence in Geomatics Engineering course at ITU.
+This project implements a GeoAI agent that utilizes official housing datasets from the Istanbul Metropolitan Municipality (IBB) Open Data Portal to provide autonomous investment analysis for various districts.
 
 ### Key Features:
-- **Official Data:** Integrated real estate metrics from the IBB Open Data Portal.
-- **Machine Learning:** Utilizes a Linear Regression model to analyze price-centrality relationships.
-- **Autonomous Reasoning:** An AI Agent layer that provides automated investment strategies based on spatial logic.
+- **Spatial Reasoning:** Uses an AI Agent to evaluate district value based on centrality scores.
+- **Machine Learning:** Implements a Linear Regression model for price trend analysis.
+- **Official Data:** Integrated with real-world Istanbul real estate metrics.
 
-### Files:
-- `script.py`: The core Python implementation.
-- `Poster.pdf`: Project summary and methodology.
+### Project Files:
+- `colab'e_hoş_geldiniz_.py`: Source code for the GeoAI Model.
+- `Poster.pdf`: Visual presentation of methodology and results.
